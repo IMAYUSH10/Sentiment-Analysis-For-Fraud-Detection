@@ -1,0 +1,7 @@
+Fraud app detection using LSTM
+
+Algorithm / Model Used: LSTM
+
+Overall Accuracy: 0.86
+
+
